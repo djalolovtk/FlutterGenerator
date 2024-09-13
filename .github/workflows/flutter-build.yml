@@ -46,3 +46,7 @@ jobs:
         with:
           name: libflutter_so_armeabi_v7a
           path: flutter_so/build/app/intermediates/merged_native_libs/release/out/lib/armeabi-v7a/libflutter.so
+
+                        - name: Upload a Build Artifact
+                uses: actions/upload-artifact@v4.4.0
+            
