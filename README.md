@@ -1,4 +1,4 @@
-Flutter Generator
+# Flutter Generator
 ```
 termux-setup-storage
 apt update
